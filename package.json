@@ -2,6 +2,7 @@
   "name": "ultraviolet",
   "version": "1.0.0",
   "description": "Proxy",
+  "repository": https://github.com/fireypool18/Ultraviolet
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
